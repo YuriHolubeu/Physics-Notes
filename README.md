@@ -1,4 +1,4 @@
-﻿# Mathematics-Notes
+﻿# Physics Notes
 
 
 This repository contains my main physics notes.
@@ -9,8 +9,8 @@ I used MathPix to add information to theoretical parts.
 At the very beginning of the entry there are links to useful parts of the table of contents.
 
 
-Now big part of them is in Russian, since half of my education was in Russian and many books are note available for free in English.
-I am rewriting them in English slowly.
+Now big part of them is in Russian, since half of my education was in Russian and many books are not available for free in English.
+I am slowly rewriting them in English.
 
 
 The idea of this approach was inspired by the example of Landau and Feynman, who understood many complex formulas and easily reproduced them (for this I created the first part, where the main theory is briefly summarized), 
