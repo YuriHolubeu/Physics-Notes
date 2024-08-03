@@ -1,11 +1,11 @@
 ﻿# Physics Notes
 
 
-This repository contains my main physics notes.
-At the beginning they contain a short theory, which is enough to solve the majority of problems and to answers the majority of typical questions,
+This repository contains my main physics notes. Please, use ''download'' button to see PDF-s.
+Each note at the beginning contain a short theory, which is enough to solve the majority of problems and to answers the majority of typical questions,
 then a detailed theory of the subject is published, repeating the theory from the books nd articles that I used in the process of studying the subject (they can be found in the list of references),
 followed by a catalog of tasks in which many tasks are solved and in at the end of the entry there is an additional theory, as well as auxiliary considerations and topics of other sciences.
-I used MathPix to add information to theoretical parts. 
+Initially, the information to theoretical parts was added with the help of MathPix. 
 At the very beginning of the entry there are links to useful parts of the table of contents.
 
 
